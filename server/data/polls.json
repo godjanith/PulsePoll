@@ -6,7 +6,7 @@
       {
         "_id": "opt-fb521427-7863-489e-8c79-943b08532dd9",
         "text": "Yes",
-        "votes": 0
+        "votes": 1
       },
       {
         "_id": "opt-4a836191-c313-4f50-a7ad-2ad867f78ec3",
@@ -14,11 +14,13 @@
         "votes": 0
       }
     ],
-    "voterHashes": [],
+    "voterHashes": [
+      "871674cda056f45db0de4cc43fab149b2d6fb535d053bd89b59b9de949b0e66d"
+    ],
     "isActive": true,
     "expiresAt": "2026-10-28T08:51:01.079Z",
     "createdAt": "2026-10-28T08:36:01.083Z",
-    "updatedAt": "2026-10-28T08:36:01.083Z"
+    "updatedAt": "2026-10-28T08:45:55.255Z"
   },
   {
     "_id": "poll-101",
@@ -60,7 +62,7 @@
       {
         "_id": "opt-102-1",
         "text": "Event-Driven WebSockets with Atomic MongoDB $inc",
-        "votes": 12
+        "votes": 13
       },
       {
         "_id": "opt-102-2",
@@ -74,10 +76,12 @@
       }
     ],
     "voterHashes": [
-      "voter-seed-3"
+      "voter-seed-3",
+      "871674cda056f45db0de4cc43fab149b2d6fb535d053bd89b59b9de949b0e66d"
     ],
     "isActive": true,
     "expiresAt": null,
-    "createdAt": "2026-10-26T08:05:27.964Z"
+    "createdAt": "2026-10-26T08:05:27.964Z",
+    "updatedAt": "2026-10-28T08:46:01.188Z"
   }
 ]
