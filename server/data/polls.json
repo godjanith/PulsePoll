@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "poll-39f8661c-f674-499f-b3ba-0cd669a25ddd",
+    "title": "Vikas M",
+    "options": [
+      {
+        "_id": "opt-fb521427-7863-489e-8c79-943b08532dd9",
+        "text": "Yes",
+        "votes": 0
+      },
+      {
+        "_id": "opt-4a836191-c313-4f50-a7ad-2ad867f78ec3",
+        "text": "No",
+        "votes": 0
+      }
+    ],
+    "voterHashes": [],
+    "isActive": true,
+    "expiresAt": "2026-10-28T08:51:01.079Z",
+    "createdAt": "2026-10-28T08:36:01.083Z",
+    "updatedAt": "2026-10-28T08:36:01.083Z"
+  },
+  {
+    "_id": "poll-101",
+    "title": "Which frontend UI library powers your reactive stack in 2026?",
+    "options": [
+      {
+        "_id": "opt-101-1",
+        "text": "React 18 / 19 + Vite (Modern Hooks & Sockets)",
+        "votes": 9
+      },
+      {
+        "_id": "opt-101-2",
+        "text": "Next.js 15 (Server Actions + Streaming SSE)",
+        "votes": 5
+      },
+      {
+        "_id": "opt-101-3",
+        "text": "Svelte 5 / Runes (Zero-runtime overhead)",
+        "votes": 3
+      },
+      {
+        "_id": "opt-101-4",
+        "text": "Vue 3 + Pinia + Nuxt",
+        "votes": 2
+      }
+    ],
+    "voterHashes": [
+      "voter-seed-1",
+      "voter-seed-2"
+    ],
+    "isActive": true,
+    "expiresAt": null,
+    "createdAt": "2026-10-26T09:05:27.962Z"
+  },
+  {
+    "_id": "poll-102",
+    "title": "Preferred architectural pattern for high-concurrency voting?",
+    "options": [
+      {
+        "_id": "opt-102-1",
+        "text": "Event-Driven WebSockets with Atomic MongoDB $inc",
+        "votes": 12
+      },
+      {
+        "_id": "opt-102-2",
+        "text": "Redis In-Memory Counters + Pub/Sub Worker Queue",
+        "votes": 7
+      },
+      {
+        "_id": "opt-102-3",
+        "text": "PostgreSQL Advisory Locks + Row Level Locking",
+        "votes": 3
+      }
+    ],
+    "voterHashes": [
+      "voter-seed-3"
+    ],
+    "isActive": true,
+    "expiresAt": null,
+    "createdAt": "2026-10-26T08:05:27.964Z"
+  }
+]
